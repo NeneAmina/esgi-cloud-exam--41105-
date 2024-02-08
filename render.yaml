@@ -4,6 +4,8 @@ ervices:
     region: frankfurt
     plan: free
     runtime: node
+    repo:  https://github.com/NeneAmina/esgi-cloud-exam--41105-.git r
+    branch: master
     buildCommand: npm install
     startCommand: npm start
     envVars:
